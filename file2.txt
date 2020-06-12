@@ -1,1 +1,3 @@
 Hello, some text added to file2.
+
+Hello, new commit
