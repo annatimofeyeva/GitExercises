@@ -1,0 +1,6 @@
+Hello, some text added to file2.
+
+Hello, new commit
+
+hey, new changes
+new lines of code
